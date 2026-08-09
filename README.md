@@ -13,8 +13,8 @@ buku dari situs [books.toscrape.com](http://books.toscrape.com), yang kemudian d
 antarmuka pencarian interaktif berbasis **Streamlit**.
 
 ## Link Akses
-- **Streamlit App:** [LINK_STREAMLIT]
-- **Repository GitHub:** [LINK_GITHUB]
+- **Streamlit App:** [https://mwfo64r3vwsc2wgwzyglxn.streamlit.app/ ]
+- **Repository GitHub:** [https://github.com/ridhalmaulana/-book-crawler-app ]
 
 ## Struktur Proyek
 ```
