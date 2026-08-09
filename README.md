@@ -14,7 +14,7 @@ antarmuka pencarian interaktif berbasis **Streamlit**.
 
 ## Link Akses
 - **Streamlit App:** [https://mwfo64r3vwsc2wgwzyglxn.streamlit.app/ ]
-- **Repository GitHub:** [https://github.com/ridhalmaulana/-book-crawler-app ]
+- **Repository GitHub:** [https://github.com/ridhalmaulana/-book-crawler-app.]
 
 ## Struktur Proyek
 ```
