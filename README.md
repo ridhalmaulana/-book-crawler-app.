@@ -1,8 +1,8 @@
 # 📚 Book Crawler App — UAS Information Retrieval (SIF502)
 
 ## Identitas
-- **Nama:** [M. Ridhal Maulana]
-- **NIM:** [24146099P]
+- **Nama:** M. Ridhal Maulana
+- **NIM:** 24146099P
 - **Mata Kuliah:** Information Retrieval (SIF502)
 - **Dosen Pengampu:** Teuku Rizky Noviandy, S.Kom., M.Kom.
 - **Tahun Ajaran:** Genap 2025/2026
